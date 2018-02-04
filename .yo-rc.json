@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitHubOrganization": "abdulgaffarabu",
+    "baseName": "LearningAnalyticsUAA",
+    "packageName": "io.nexquare.learninganalytics.uaa",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "oauth2",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhipsterVersion": "4.14.0",
+    "packageFolder": "io/nexquare/learninganalytics/uaa",
+    "jhiPrefix": "jhi",
+    "skipClient": true
+  }
+}
